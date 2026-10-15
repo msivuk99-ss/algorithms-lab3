@@ -1,0 +1,15 @@
+D:\GitHub\algorithms-lab3\lab07\bin\Debug\net9.0\lab07.exe
+D:\GitHub\algorithms-lab3\lab07\bin\Debug\net9.0\lab07.deps.json
+D:\GitHub\algorithms-lab3\lab07\bin\Debug\net9.0\lab07.runtimeconfig.json
+D:\GitHub\algorithms-lab3\lab07\bin\Debug\net9.0\lab07.dll
+D:\GitHub\algorithms-lab3\lab07\bin\Debug\net9.0\lab07.pdb
+D:\GitHub\algorithms-lab3\lab07\obj\Debug\net9.0\lab07.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\algorithms-lab3\lab07\obj\Debug\net9.0\lab07.AssemblyInfoInputs.cache
+D:\GitHub\algorithms-lab3\lab07\obj\Debug\net9.0\lab07.AssemblyInfo.cs
+D:\GitHub\algorithms-lab3\lab07\obj\Debug\net9.0\lab07.csproj.CoreCompileInputs.cache
+D:\GitHub\algorithms-lab3\lab07\obj\Debug\net9.0\lab07.sourcelink.json
+D:\GitHub\algorithms-lab3\lab07\obj\Debug\net9.0\lab07.dll
+D:\GitHub\algorithms-lab3\lab07\obj\Debug\net9.0\refint\lab07.dll
+D:\GitHub\algorithms-lab3\lab07\obj\Debug\net9.0\lab07.pdb
+D:\GitHub\algorithms-lab3\lab07\obj\Debug\net9.0\lab07.genruntimeconfig.cache
+D:\GitHub\algorithms-lab3\lab07\obj\Debug\net9.0\ref\lab07.dll
